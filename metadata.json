@@ -1,0 +1,6 @@
+{
+  "name": "ShelfCraft 3D - Retail Merchandising & Package Visualizer",
+  "description": "Профессиональная платформа интернет-мерчендайзинга и 3D-визуализации упаковки товаров на виртуальной торговой полке магазина с AI-аналитикой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
